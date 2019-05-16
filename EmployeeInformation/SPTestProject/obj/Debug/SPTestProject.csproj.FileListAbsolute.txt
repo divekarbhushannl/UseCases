@@ -1,0 +1,10 @@
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\bin\Debug\SPTestProject.dll.config
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\bin\Debug\SPTestProject.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\bin\Debug\SPTestProject.pdb
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\obj\Debug\SPTestProject.csprojResolveAssemblyReference.cache
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\obj\Debug\SPTestProject.csproj.CoreCompileInputs.cache
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\obj\Debug\SPTestProject.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\SPTestProject\obj\Debug\SPTestProject.pdb

@@ -1,0 +1,3 @@
+﻿{
+  "ConnectionString": "Server=LBNL13128\\SQLEXPRESS;Database=EmployeeInformation;Trusted_Connection=True;"
+}

@@ -1,0 +1,17 @@
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\appsetting.json
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.deps.json
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.runtimeconfig.json
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.runtimeconfig.dev.json
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.pdb
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\FindDuplicateEmployee.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\bin\Debug\netcoreapp2.0\FindDuplicateEmployee.pdb
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\obj\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.csprojResolveAssemblyReference.cache
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\obj\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.csproj.CoreCompileInputs.cache
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\obj\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.AssemblyInfoInputs.cache
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\obj\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.AssemblyInfo.cs
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\obj\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\FindDuplicateEmployeeUnitTest\obj\Debug\netcoreapp2.0\FindDuplicateEmployeeUnitTest.pdb

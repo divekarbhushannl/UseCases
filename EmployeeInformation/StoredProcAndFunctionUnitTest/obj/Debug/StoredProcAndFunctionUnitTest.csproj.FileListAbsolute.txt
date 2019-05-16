@@ -1,0 +1,12 @@
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\bin\Debug\StoredProcAndFunctionUnitTest.dll.config
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\bin\Debug\StoredProcAndFunctionUnitTest.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\bin\Debug\StoredProcAndFunctionUnitTest.pdb
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\obj\Debug\StoredProcAndFunctionUnitTest.csproj.CoreCompileInputs.cache
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\obj\Debug\StoredProcAndFunctionUnitTest.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\obj\Debug\StoredProcAndFunctionUnitTest.pdb
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\obj\Debug\StoredProcAndFunctionUnitTest.SqlServerUnitTest1.resources
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\obj\Debug\StoredProcAndFunctionUnitTest.csproj.GenerateResource.Cache
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\StoredProcAndFunctionUnitTest\obj\Debug\StoredProcAndFunctionUnitTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.dacpac
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.dll
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb
+C:\Bhushan\ABN-AMRO-Use-Case\Folder2\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.sqlprojResolveAssemblyReference.cache
